@@ -2,8 +2,8 @@
   "accentColor": "#e22222",
   "showRibbon": true,
   "showViewHeader": true,
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
+  "textFontFamily": "Vezitsa Cyrillic",
+  "interfaceFontFamily": "Arnold BocklinC Initial One",
   "baseFontSize": 19,
   "enabledCssSnippets": [
     "Dikovets",
