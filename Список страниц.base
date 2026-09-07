@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Таблица
+    order:
+      - file.name
+      - file.size
+      - file.ctime

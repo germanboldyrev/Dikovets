@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "Организации"
+views:
+  - type: table
+    name: Таблица
