@@ -224,11 +224,13 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "42ddbbb6902a9826",
   "lastOpenFiles": [
+    "README.md",
     "Домашняя страница.md",
     "Рекапы/Игра 6. Искры разума..md",
     "Без названия.base",
@@ -257,7 +259,6 @@
     "Персонажи/Велес.md",
     "Персонажи/Смотритель мрязинской тюрьмы..md",
     "Персонажи/Милош.md",
-    "Персонажи/Сотер.md",
     "Организации/Организации.base",
     "Персонажи/Персонажи игроков",
     "Рекапы",
