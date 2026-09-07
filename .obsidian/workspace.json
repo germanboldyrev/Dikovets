@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Праздники/Деды.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Деды"
+              "title": "README"
             }
           },
           {
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Праздники/Деды.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,8 +228,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "42ddbbb6902a9826",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Праздники/Деды.md",
     "README.md",
     "Домашняя страница.md",
     "Рекапы/Игра 6. Искры разума..md",
@@ -258,7 +259,6 @@
     "Персонажи/Ладо.md",
     "Персонажи/Велес.md",
     "Персонажи/Смотритель мрязинской тюрьмы..md",
-    "Персонажи/Милош.md",
     "Организации/Организации.base",
     "Персонажи/Персонажи игроков",
     "Рекапы",
